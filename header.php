@@ -74,5 +74,3 @@
         <div class="col-lg-12">
           <div id="primary" class="content-area">
             <?php } ?>
-
-<!-- Test for Git -->

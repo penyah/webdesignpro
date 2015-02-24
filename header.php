@@ -75,3 +75,4 @@
           <div id="primary" class="content-area">
             <?php } ?>
 
+<!-- Test for Git -->
